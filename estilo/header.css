@@ -1,0 +1,21 @@
+@charset "UTF-8";
+
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+body {
+    background-color: antiquewhite;
+}
+
+header {
+    background-color: black;
+    color: white;
+}
+h1 {
+    padding: 20px;
+}
+a {
+    color: white;
+}
