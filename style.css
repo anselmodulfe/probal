@@ -20,3 +20,14 @@ a {
     border: 20px;
     padding: 10px;
 }
+
+table {
+    width: 700px;
+    margin: 20px 4px;
+    border-collapse: collapse;
+}
+
+th, td {
+    padding: 5px;
+    border: 1px solid black;
+}
